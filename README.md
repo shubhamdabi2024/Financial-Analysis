@@ -5,7 +5,7 @@ This project analyzes financial data to uncover trends and patterns. Interactive
 - <a href= "https://github.com/shubhamdabi2024/Financial-Analysis/blob/main/Financial%20Analysis%20Page%202.png">View Dashboard P2</a>
 - <a href= "https://github.com/shubhamdabi2024/Financial-Analysis/blob/main/Financial%20Analysis%20Page%203.png">View Dashboard P3</a>
 
-## Questions
+## Overview
 - EverGrow Capital has achieved 80% of its income target, reaching a total income of 8,98,932 against a target of 7,20,879. Licensing is the top-earning source, followed by advertising and subscription revenue. The company has also generated income from asset sales and renting. Market strategy has achieved 60,073, and the operating profit stands at 1,44,179. The dashboard provides a breakdown of income sources and visualizes income trends over time.
 
 - The financial statistics dashboard for Evergrow Capital gives a comprehensive overview of income for the year 2023. It includes a world map highlighting the financial contributions of Brazil (₹1,34,232, 9%), Canada (₹1,36,168, 9%), Egypt (₹3,94,908, 27%), Russia (₹3,32,024, 23%), and the United States (₹2,37,844, 16%). The total financial statistic is ₹14,71,428, and the sales percentage achieved is 74%. The dashboard also contains options for browsing income sources, geographical data, and sales processes.
