@@ -20,11 +20,11 @@ This project analyzes financial data to uncover trends and patterns. Interactive
   - Cash: 256
   - Non-Registered Customer Info: 256
 On the right side, there is a circular chart labeled "Financial Targets" showing three categories: Branch (₹51,804), Shipment (₹53,803), and Download (₹55,489).
-# Tool Used:
+## Tool Used:
 - MS Office Excel
   - Power Query
   -Pivot Table
-# Tasks Performed:
+## Tasks Performed:
 - Data Import and Transformation
 - ETL
 - Data Processing
